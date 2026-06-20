@@ -11,7 +11,7 @@
 **本リポジトリは、MVP（最小機能製品）として「最適な受取場所を提案・選択する」体験に特化して実装されています。**
 
 ### 🔗 デモ (GitHub Pages)
-[ここにあなたのGitHub PagesのURLを貼ってください]
+[https://ayaniimi213.github.io/kimi-ni-todoke-mvp/index.html]
 
 ---
 
